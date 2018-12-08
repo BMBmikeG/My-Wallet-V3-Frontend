@@ -4,9 +4,9 @@
   "description": "AngularJS front-end to My-Wallet-V3.",
   "dependencies": {
     "@uirouter/angularjs": "^1.0.3",
-    "angular": "^1.6.4",
+    "angular": "^1.6.9",
     "angular-resource": "^1.6.4",
-    "angular-translate": "2.11.*",
+    "angular-translate": "2.11.1",
     "jquery": "^3.2.1"
   },
   "devDependencies": {
